@@ -7,7 +7,7 @@
 
 ---
 
-## 🎓 Resumo
+## 🎓 Resumo Profissional
 
 Graduanda em Geografia pela UFSCar, com ênfase em geotecnologias e análise espacial. Possuo conhecimentos em ArcGIS, QGIS, sensoriamento remoto e na plataforma Google Earth Engine, desenvolvidos por meio da formação acadêmica e participação em projetos de pesquisa. Busco uma oportunidade para aplicar esses conhecimentos em contextos profissionais, contribuindo para o desenvolvimento de soluções geoespaciais.
 
@@ -16,65 +16,85 @@ Graduanda em Geografia pela UFSCar, com ênfase em geotecnologias e análise esp
 ## 💼 Experiência Profissional
 
 ### Professora de Geografia  
-**Colégio Ser**  
-📍 Sorocaba, SP | 🗓️ Jan/2025 – Jun/2025  
-- Elaboração de planos de ensino abordando cartografia, geopolítica, meio ambiente e urbanização  
-- Uso de metodologias ativas (estudos de caso, análise de mapas, debates)  
-- Coordenação de projetos como saídas de campo e feiras científicas  
-- Integração de tecnologias geográficas (SIG/GIS)  
-- Trabalho colaborativo para criação de materiais interdisciplinares
-
-### Iniciação à Docência  
-**Escola Estadual Prof. Altamir Gonçalves**  
-📍 Sorocaba, SP | 🗓️ Nov/2024 – Mai/2025  
-- Planos de ensino com foco em temas locais e globais  
-- Estratégias didáticas como mapas, estudos de caso e debates  
-- Organização de atividades participativas e inclusivas  
-- Práticas com análise de dados espaciais e uso de SIG  
-- Coordenação de projetos como feiras e saídas de campo
-
-### Estagiária  
-**Agathos Educacional**  
-📍 Sorocaba, SP | 🗓️ Fev/2024 – Set/2024  
-- Desenvolvimento de projetos educacionais em sala  
-- Auxílio na implementação de atividades práticas  
-- Colaboração com professores em inovação pedagógica  
-- Suporte em pesquisas e experimentação  
-- Gestão de recursos e materiais pedagógicos
-
-### Iniciação à Docência  
-**Escola Municipal Irineu Leister**  
-📍 Sorocaba, SP | 🗓️ Fev/2023 – Mar/2024  
-- Planejamento de aula e currículo  
-- Habilidades de ensino, comunicação e trabalho em equipe
-
-### Analista Educacional  
-**Educomunicador**  
-📍 São Paulo, SP | 🗓️ Ago/2021 – Dez/2021  
-- Correção e revisão de projetos educacionais  
-- Criação de conteúdos didáticos
-
-### Assistente Administrativo  
-**Contábil Santa Terezinha**  
-📍 Bragança Paulista, SP | 🗓️ Jun/2020 – Jul/2021  
-- Tarefas administrativas e organizacionais  
-- Gestão de documentos e registros contábeis  
-- Atendimento ao cliente e suporte operacional
+**Colégio Ser – Sorocaba, SP**  
+📅 Jan/2025 – Jun/2025  
+- Elaboração de planos de ensino sobre cartografia, geopolítica, meio ambiente e urbanização;  
+- Aplicação de metodologias ativas como estudos de caso, análise de mapas e debates interdisciplinares;  
+- Coordenação de projetos como saídas de campo e feiras científicas;  
+- Trabalho colaborativo com professores em materiais interdisciplinares.
 
 ---
 
-## 🎓 Educação
+### Iniciação à Docência  
+**Escola Estadual Prof. Altamir Gonçalves – Sorocaba, SP**  
+📅 Nov/2024 – Mai/2025  
+- Elaboração de planos de ensino que abordem temas como cartografia, geopolítica, climatologia, meio ambiente e urbanização, conectando-os a questões locais e globais para estimular o pensamento crítico e reflexivo dos alunos;  
+- Utilização de estratégias didáticas, como estudos de caso, análise de mapas, debates e projetos interdisciplinares, para facilitar a compreensão dos conteúdos geográficos;  
+- Organização de atividades que estimulem a participação ativa e o respeito às diferentes opiniões, mantendo uma dinâmica produtiva e inclusiva no ambiente de aprendizado;  
+- Colaboração com colegas e outros profissionais da educação para integrar conteúdos de Geografia em projetos interdisciplinares e desenvolver materiais didáticos;  
+- Condução de práticas pedagógicas que envolvam análise de dados espaciais, uso de tecnologias geográficas (SIG/GIS) e discussões sobre questões socioambientais contemporâneas;  
+- Coordenação de projetos educacionais relacionados à Geografia, como feiras científicas, debates temáticos e saídas de campo, promovendo a autonomia e a curiosidade dos alunos.
 
-**Universidade Federal de São Carlos (UFSCar)**  
-📍 Campus Sorocaba  
-_Bacharelado em Geografia_  
-🗓️ Jan/2022 – Dez/2025 (em andamento)
+---
+
+### Estagiária  
+**Agathos Educacional – Sorocaba, SP**  
+📅 Fev/2024 – Set/2024  
+- Desenvolvimento e coordenação de projetos educacionais para salas de aula;  
+- Auxílio na implementação de atividades práticas e aulas extras;  
+- Colaboração com professores;  
+- Participação em iniciativas de inovação educacional, explorando diferentes metodologias de ensino;  
+- Suporte na organização e execução de projetos de pesquisa e experimentação pedagógica;  
+- Gestão de recursos e materiais necessários para a realização dos projetos.
+
+---
+
+### Iniciação à Docência  
+**Escola Municipal Irineu Leister – Sorocaba, SP**  
+📅 Fev/2023 – Mar/2024  
+- Planejamento de aula e currículo;  
+- Habilidade de ensino;  
+- Comunicação;  
+- Gerenciamento de sala de aula;  
+- Trabalho em equipe;  
+- Trabalho educacional;  
+- Habilidades de liderança.
+
+---
+
+### Analista Educacional (Educomunicador)  
+**São Paulo, SP**  
+📅 Ago/2021 – Dez/2021  
+- Correção de projetos;  
+- Revisão;  
+- Criação.
+
+---
+
+### Assistente Administrativo  
+**Contábil Santa Terezinha – Bragança Paulista, SP**  
+📅 Jun/2020 – Jul/2021  
+- Tarefas administrativas e organizacionais;  
+- Gestão de documentos e registros contábeis;  
+- Atendimento ao cliente e suporte operacional.
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Universidade Federal de São Carlos (UFSCar) – Campus Sorocaba**  
+📘 Graduação em Geografia  
+📅 Jan/2022 – Dez/2025  
+
+**Universidade Federal de São Carlos (UFSCar) – Campus Sorocaba**  
+📘 Graduação em Pedagogia  
+📅 Jan/2019 – Dez/2021  
 
 ---
 
 ## 🛠️ Habilidades
 
-- Comunicação  
+- Comunicação eficaz  
 - Proatividade  
 - Resolução de problemas  
 - Capacidade de adaptação  
@@ -83,10 +103,6 @@ _Bacharelado em Geografia_
 - Google Planilhas, Projetos e Relatórios  
 - Office 365  
 - Colaboração interdisciplinar  
-- Geotecnologias (QGIS, ArcGIS)  
+- Geotecnologias: QGIS, ArcGIS  
 - Análise de dados espaciais  
 - Inglês intermediário
-
----
-
-> ✨ Sempre em busca de aprendizado e oportunidades para unir Geografia, Educação e Tecnologia.
