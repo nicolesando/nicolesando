@@ -1,9 +1,6 @@
 # Nicole Sando
 
-📍 Sorocaba, SP, Brasil  
-📞 +55 11 99543 5936  
-✉️ nsando.educacao@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nicole-sando-b668912b1)
+📍 Sorocaba, SP, Brasil  | 📞 +55 11 99543 5936  | ✉️ nsando.educacao@gmail.com  | 🔗 [LinkedIn](https://www.linkedin.com/in/nicole-sando-b668912b1)
 
 ---
 
@@ -106,3 +103,5 @@ Graduanda em Geografia pela UFSCar, com ênfase em geotecnologias e análise esp
 - Geotecnologias: QGIS, ArcGIS  
 - Análise de dados espaciais  
 - Inglês intermediário
+- GEE (Google Earth Engine)
+- JavaScrpit
