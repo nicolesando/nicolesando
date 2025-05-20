@@ -98,7 +98,9 @@ Graduanda em Geografia pela UFSCar, com ênfase em geotecnologias e análise esp
 - Trabalho em equipe  
 - Gestão de conflitos  
 - Google Planilhas, Projetos e Relatórios  
-- Office 365  
+- Office 365
+- Slack
+- Microsoft Teams  
 - Colaboração interdisciplinar  
 - Geotecnologias: QGIS, ArcGIS  
 - Análise de dados espaciais  
