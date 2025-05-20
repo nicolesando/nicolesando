@@ -62,7 +62,7 @@ Graduanda em Geografia pela UFSCar, com ênfase em geotecnologias e análise esp
 ## 🎓 Formação Acadêmica
 
 **Universidade Federal de São Carlos (UFSCar) – Campus Sorocaba**  
-📘 Bacharelado em Geografia  
+📘 Graduação em Geografia  
 📅 Jan/2022 – Dez/2025  
 
 **Universidade Federal de São Carlos (UFSCar) – Campus Sorocaba**  
@@ -78,4 +78,4 @@ Graduanda em Geografia pela UFSCar, com ênfase em geotecnologias e análise esp
 | Proatividade       | Office 365                    | Sensoriamento remoto          |
 | Resolução de problemas | Colaboração interdisciplinar | Análise de dados espaciais    |
 | Adaptação          | Trabalho em equipe            | Inglês intermediário          |
-| Gestão de conflitos|                               |                               |
+| Gestão de conflitos| GEE (Google Earth Engine      | JavaScript                    |
